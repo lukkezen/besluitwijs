@@ -3,12 +3,21 @@
     "name": "Wijchen",
     "partner": "nntb",
     "statement": "Op deze plek kan een lokale krant aangeven waarom deze mee doet.",
-    "data_json": "https://raw.githubusercontent.com/lukkezen/besluitwijs/main/wijchen.json"
+    "data_json": "https://raw.githubusercontent.com/lukkezen/besluitwijs/main/wijchen.json",
+    "data_csv": ""
   },
   {
     "name": "Nijmegen",
     "partner": "nntb",
     "statement": "Op deze plek kan een lokale krant aangeven waarom deze mee doet. Deze data is nog niet gevult en kan dus niet worden gebruikt",
-    "data_json": "https://…/nijmegen.json"
+    "data_json": "https://…/nijmegen.json",
+    "data_csv": ""
+  },
+  {
+    "name": "g",
+    "partner": "p",
+    "statement": "s",
+    "data_json": "https://raw.githubusercontent.com/lukkezen/besluitwijs/main/g.json",
+    "data_csv": ""
   }
 ]
