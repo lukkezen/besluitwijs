@@ -1,0 +1,18 @@
+[
+  {
+    "question": "Test",
+    "link": "bron",
+    "news": "nieuws",
+    "parties_for": [
+      "1234",
+      "PvdA Wijchen",
+      "VVD Wijchen",
+      "Wijchen Lokaal"
+    ],
+    "parties_against": [
+      "GroenLinks Wijchen",
+      "CDA Wijchen",
+      "Kernachtig Wijchen"
+    ]
+  }
+]
