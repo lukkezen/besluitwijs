@@ -10,14 +10,7 @@
     "name": "Nijmegen",
     "partner": "nntb",
     "statement": "Op deze plek kan een lokale krant aangeven waarom deze mee doet. Deze data is nog niet gevult en kan dus niet worden gebruikt",
-    "data_json": "https://Ã¢ÂÂ¦/nijmegen.json",
-    "data_csv": ""
-  },
-  {
-    "name": "test123",
-    "partner": "test",
-    "statement": "test",
-    "data_json": "https://raw.githubusercontent.com/lukkezen/besluitwijs/main/test.json",
+    "data_json": "https://ÃÂ¢ÃÂÃÂ¦/nijmegen.json",
     "data_csv": ""
   }
 ]
