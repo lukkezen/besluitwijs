@@ -1,1 +1,574 @@
-[]
+[
+  {
+    "question": "In het nieuwe college van burgemeester en wethouders moet het aantal mannen en vrouwen gelijk zijn.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "anders"
+    ],
+    "parties_against": [
+      "D66"
+    ]
+  },
+  {
+    "question": "De inwoners van Wijchen moeten over belangrijke onderwerpen hun mening kunnen geven via een referendum.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "Inwoners moeten het beheer van bijvoorbeeld een sporthal of plantsoen kunnen overnemen van de gemeente.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "De prijzen van gemeentelijke vergunningen moeten omhoog.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "anders"
+    ],
+    "parties_against": [
+      "D66"
+    ]
+  },
+  {
+    "question": "De gemeente moet boeren altijd toestaan om bij hun boerenbedrijf bijvoorbeeld een winkel of een camping te openen.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "Inwoners die samen duurzame energie op willen wekken, moeten financiële steun krijgen van de gemeente.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "anders"
+    ],
+    "parties_against": [
+      "D66"
+    ]
+  },
+  {
+    "question": "De gemeente moet de vestiging van nieuwe distributiecentra tegengaan.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "In onze gemeente moet een asielzoekerscentrum (azc) komen.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "Werkgevers in de land- en tuinbouw moeten zelf zorgen voor de huisvesting van seizoenarbeiders op hun eigen bedrijfsterrein.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "Voor elke gekapte boom in de gemeente moet een nieuwe worden geplant.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "In Wijchen moet het gebruik van open haarden en houtkachels toegestaan blijven.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "De gemeente moet terrasverwarming verbieden.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "anders"
+    ],
+    "parties_against": [
+      "D66"
+    ]
+  },
+  {
+    "question": "De gemeente moet op oudejaarsavond een vuurwerkshow organiseren.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "anders"
+    ],
+    "parties_against": [
+      "D66"
+    ]
+  },
+  {
+    "question": "Grofvuil moet gratis aan huis worden afgehaald.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "De geluidsnormen bij festivals en feesten moeten strenger worden.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "De gemeente moet ondernemers financieel helpen om hun gebouw toegankelijker te maken voor mensen met een beperking.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "anders"
+    ],
+    "parties_against": [
+      "D66"
+    ]
+  },
+  {
+    "question": "Het moet mogelijk worden voor boeren om zelf huizen te bouwen op hun land.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "De gemeente moet het lidmaatschap van een sportclub betalen voor mensen met een bijstandsuitkering.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "De gemeente moet de lokale omroep ondersteunen met extra geld.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "De gemeente moet in de komende raadsperiode geld steken in het verbeteren van alle schoolgebouwen.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "Elk basisschoolkind moet met subsidie van de gemeente muziekles kunnen krijgen.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "Als sportverenigingen het moeilijk hebben, moet de gemeente financieel bijdragen.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "De gemeente moet bezuinigen op de monumentenzorg.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "anders"
+    ],
+    "parties_against": [
+      "D66"
+    ]
+  },
+  {
+    "question": "In Wijchen moeten meer gemeentelijke handhavers (boa’s) komen die zich met veiligheid bezighouden.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "In Wijchen moet meer cameratoezicht komen.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "In Wijchen moet een blijf-van-mijn-lijf-huis komen.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "Mensen die voor het eerst een huis willen kopen, moeten van de gemeente een starterslening kunnen krijgen.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "Bij de toewijzing van een sociale huurwoning moeten woningzoekenden uit de eigen gemeente voorrang krijgen.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "anders"
+    ],
+    "parties_against": [
+      "D66"
+    ]
+  },
+  {
+    "question": "In Wijchen moeten meer kleine huur- en koopwoningen worden gebouwd voor ouderen.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "De gemeente moet toestaan dat vakantiewoningen gebruikt worden als vast woonadres.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "De gemeente moet nieuwbouw buiten de bestaande dorpsgrenzen tegengaan.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "Mensen die een bijstandsuitkering krijgen, moeten in ruil daarvoor maatschappelijk zinvol werk doen.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "anders"
+    ],
+    "parties_against": [
+      "D66"
+    ]
+  },
+  {
+    "question": "De gemeente moet stoppen met het kwijtschelden van de gemeentelijke belastingen voor inwoners met een laag inkomen.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "anders"
+    ],
+    "parties_against": [
+      "D66"
+    ]
+  },
+  {
+    "question": "De gemeente moet de inkomensgrens om hulp te krijgen bij armoede verhogen.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "anders"
+    ],
+    "parties_against": [
+      "D66"
+    ]
+  },
+  {
+    "question": "De gemeente moet bezuinigen op het jongerenwerk.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "anders"
+    ],
+    "parties_against": [
+      "D66"
+    ]
+  },
+  {
+    "question": "De gemeente moet meer parkeerplaatsen aanwijzen als oplaadplekken voor elektrische auto's.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "De maximumsnelheid binnen de bebouwde kom moet naar 30 km/u.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "Mensen die zorg nodig hebben, moeten altijd kunnen kiezen voor een zorgverlener die past bij hun geloof, cultuur of levensovertuiging.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "De gemeente moet bij het selecteren van organisaties voor jeugdhulp vooral letten op de prijs.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "anders"
+    ],
+    "parties_against": [
+      "D66"
+    ]
+  },
+  {
+    "question": "De onroerendezaakbelasting (ozb) moet omhoog.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "anders"
+    ],
+    "parties_against": [
+      "D66"
+    ]
+  },
+  {
+    "question": "De gemeente moet de hondenbelasting afschaffen.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "De toeristenbelasting moet omhoog.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "anders"
+    ],
+    "parties_against": [
+      "D66"
+    ]
+  },
+  {
+    "question": "In Wijchen mogen de bedrijventerreinen uitbreiden.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "De gemeente moet geen koopzondagen toelaten.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "anders"
+    ],
+    "parties_against": [
+      "D66"
+    ]
+  },
+  {
+    "question": "De gemeente moet vluchtelingen met een verblijfsvergunning voorrang blijven geven op een sociale huurwoning.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "anders"
+    ],
+    "parties_against": [
+      "D66"
+    ]
+  },
+  {
+    "question": "Het inleveren van afval bij de milieustraat moet gratis blijven.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "De gemeente moet zonnepanelen op landbouwgrond verbieden.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "anders"
+    ],
+    "parties_against": [
+      "D66"
+    ]
+  },
+  {
+    "question": "Wijchen moet Theater ’t Mozaïek geen geld meer geven.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "anders"
+    ],
+    "parties_against": [
+      "D66"
+    ]
+  },
+  {
+    "question": "Van de nieuw te bouwen woningen in Wijchen moet minimaal 40% een sociale huurwoning zijn. In Nederland is nu 28% van de woningen een sociale huurwoning.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "In Wijchen mogen hoge woonflats komen.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "Wijchen moet niet zelf, maar samen met Beuningen één nieuw zwembad bouwen.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  },
+  {
+    "question": "De kasteeltuin in Wijchen moet weer een park worden.",
+    "link": "",
+    "news": "",
+    "parties_for": [
+      "D66"
+    ],
+    "parties_against": [
+      "anders"
+    ]
+  }
+]
