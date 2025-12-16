@@ -10,7 +10,7 @@
     "name": "Nijmegen",
     "partner": "nntb",
     "statement": "Op deze plek kan een lokale krant aangeven waarom deze mee doet. Deze data is nog niet gevult en kan dus niet worden gebruikt",
-    "data_json": "https://ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¦/nijmegen.json",
+    "data_json": "https://ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¦/nijmegen.json",
     "data_csv": ""
   },
   {
@@ -18,6 +18,13 @@
     "partner": "1",
     "statement": "ttt",
     "data_json": "https://raw.githubusercontent.com/lukkezen/besluitwijs/main/tt.json",
+    "data_csv": ""
+  },
+  {
+    "name": "Stemwijzer",
+    "partner": "",
+    "statement": "",
+    "data_json": "https://raw.githubusercontent.com/lukkezen/besluitwijs/main/stemwijzer.json",
     "data_csv": ""
   }
 ]
