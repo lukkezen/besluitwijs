@@ -2,13 +2,7 @@
   {
     "name": "Wijchen",
     "partner": "nntb",
-    "statement": "Op deze plek kan een lokale krant aangeven waarom deze mee doet.",
+    "statement": "Interesse om partner te worden? Neem contact op via maikel@lukkezen.name",
     "data_json": "https://raw.githubusercontent.com/lukkezen/besluitwijs/main/wijchen.json"
-  },
-  {
-    "name": "Nijmegen",
-    "partner": "nntb",
-    "statement": "Op deze plek kan een lokale krant aangeven waarom deze mee doet. Deze data is nog niet gevult en kan dus niet worden gebruikt",
-    "data_json": "https://…/nijmegen.json"
   }
 ]
